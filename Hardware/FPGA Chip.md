@@ -1,0 +1,1 @@
+Auf dem RP STEM-LAM 125-14 ist ein Xilinx [Zynq 7010](https://www.xilinx.com/products/silicon-devices/soc/zynq-7000.html#productTable) verbaut. Dabei handelt es sich um einen SoC (System on a Chip) auf dem einen dual core ARM Cortex A9 Prozessor und ein Xilinx Artix-7 FPGA  verbunden sind.

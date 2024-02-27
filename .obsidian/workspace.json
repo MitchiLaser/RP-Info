@@ -9,7 +9,7 @@
         "dimension": 50.444162436548226,
         "children": [
           {
-            "id": "b13acb4f684e4acd",
+            "id": "0e7819928a248241",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,21 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "36779b61139ba00a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DAC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "7293331816d80b9c",
@@ -114,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DAC.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -175,18 +158,21 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "36779b61139ba00a",
+  "active": "5d58876a690d3063",
   "lastOpenFiles": [
-    "tags.lock",
     "Red Pitaya.md",
-    "DAC.md",
+    "FPGA Entwicklung",
+    "Hardware/FPGA Chip.md",
+    "Hardware/Hardware.md",
+    "Hardware/ADC.md",
+    "Hardware",
+    "FPGA Entwicklung/FPGA Entwicklung.md",
+    "Hardware/DAC.md",
     "tags.temp",
+    "tags.lock",
     "README.rst",
     "tags",
     "README.md",
-    "FPGA Entwicklung.md",
-    "Hardware.md",
-    "ADC.md",
     "Pasted image 20240227122059.png",
     "Unbenannt.md"
   ]
