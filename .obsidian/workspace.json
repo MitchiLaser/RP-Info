@@ -19,8 +19,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "80a785c01ea627ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware/DAC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a166c6c5f1f15644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Linux-Umgebung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7293331816d80b9c",
@@ -101,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hardware/DAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hardware/DAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hardware/DAC.md"
+              }
             }
           }
         ]
@@ -158,18 +187,23 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "5d58876a690d3063",
+  "active": "80a785c01ea627ad",
   "lastOpenFiles": [
     "Red Pitaya.md",
-    "FPGA Entwicklung",
-    "Hardware/FPGA Chip.md",
+    "Linux/Linux-Umgebung.md",
+    "Linux/Serielle Konsole.md",
     "Hardware/Hardware.md",
-    "Hardware/ADC.md",
-    "Hardware",
-    "FPGA Entwicklung/FPGA Entwicklung.md",
+    "Hardware/FPGA-Chip.md",
+    "FPGA.md",
     "Hardware/DAC.md",
-    "tags.temp",
+    "Hardware/ADC.md",
+    "Link-Sammlung.md",
+    "FPGA Entwicklung/FPGA Entwicklung.md",
+    "Linux",
     "tags.lock",
+    "FPGA Entwicklung",
+    "Hardware",
+    "tags.temp",
     "README.rst",
     "tags",
     "README.md",

@@ -2,8 +2,8 @@ Der RP ist mit 2 analogen Ausgängen ausgestattet:
 - Auflösung: 14 Bits
 - Ausgangsspannung: $\pm{}\pu{1 V}$
 - Samplingrate: $\pu{125 MSps}$ Voll-Dublex
-Beide analogen Ausgänge werden von einem DAC Chip betrieben: [AD9767](http://www.analog.com/media/en/technical-documentation/data-sheets/AD9763_9765_9767.pdf). This chip has two analog outputs and is connected via a 14 bit parallel interface. It has two operating modes:
-1. Parallel mode: Both analog outputs have a parallel connection to the chip which is driving the DAC and share a common clock
+Beide analogen Ausgänge werden von einem DAC Chip betrieben: [AD9767](http://www.analog.com/media/en/technical-documentation/data-sheets/AD9763_9765_9767.pdf). Dieser Chip hat zwei analoge Ausgänge und wird über einen 14 Bit breiten parallelen Bus gesteuert. Der Chip kann in 2 Modi betrieben werden:
+1. Parallel mode: Beide Ausgänge werden parallel zueinander betrieben und haben ihre eigene parallele Schnittstelle. Sie teile sich eine gemeinsame Clock.
 2. Interlieived mode: Beide analoge Ausgänge teilen sich eine parallele Schnittstelle (in diesem Fall die Schnittstelle für Ausgang A). Beide Ausgänge werden nacheinander angesprochen. Dafür wird die Clock doppelt so schnell betrieben
 Beim RP STL 125-14 wird der DAC im interlieved Modus mit einer 250MHz Clock betrieben. Höchstwahrscheinlich ist das die maximale Frequenz mit der der FPGA Chip betrieben werden kann.
 
@@ -14,4 +14,4 @@ Der folgende [Blog-Eintrag](https://ln1985blog.wordpress.com/2016/02/07/red-pita
 Mögliche Lösungen:
 - Während der DAC in Betrieb ist keine anderen Komponenten auf dem Board verwenden: ADCs und Onboard-LEDs ausgeschaltet lassen
 - Wie im Blog-Eintrag beschrieben: Die zwei Widerstände vom Spannungsteiler entfernen. Das verschiebt den Wertebereich der Ausgangsspannung aber auf $\pu{0 V}$ bis $\pu{2 V}$.
-Die Low-Noise Variante des RP hat dieses Problem gelöst (Vermutung: Verwendung eines Linearreglers zum Erzeugen der Referenzspannung).
+Die Low-Noise Variante des RP hat dieses Problem gelöst (Vermutung: Verwendung eines Linearreglers zum Erzeugen einer stabileren Referenzspannung).
