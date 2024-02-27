@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "8a89c6685c7cbd9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3b5357f5e273d54",
+        "type": "tabs",
+        "dimension": 50.444162436548226,
+        "children": [
+          {
+            "id": "b13acb4f684e4acd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Red Pitaya.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36779b61139ba00a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DAC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7293331816d80b9c",
+        "type": "tabs",
+        "dimension": 49.555837563451774,
+        "children": [
+          {
+            "id": "5d58876a690d3063",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4bde27f0ea00b242",
+    "type": "split",
+    "children": [
+      {
+        "id": "33ce2285188610ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99a36eb18bdbb24c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aab6a82a6d00d37f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4722890cea62c884",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1c7d2ec4a0df292",
+    "type": "split",
+    "children": [
+      {
+        "id": "71b679de914034d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7c1f87afb6ffe93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DAC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a9a4ee2e90f3031",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DAC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "adf49ef364b05ef5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dc19d91b2508bfd9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DAC.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "36779b61139ba00a",
+  "lastOpenFiles": [
+    "tags.lock",
+    "Red Pitaya.md",
+    "DAC.md",
+    "tags.temp",
+    "README.rst",
+    "tags",
+    "README.md",
+    "FPGA Entwicklung.md",
+    "Hardware.md",
+    "ADC.md",
+    "Pasted image 20240227122059.png",
+    "Unbenannt.md"
+  ]
+}
