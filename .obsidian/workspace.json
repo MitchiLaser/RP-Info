@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hardware/ADC.md",
+                "file": "MCPHA/Filter im Code von Pavel.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hardware/ADC.md",
+                "file": "MCPHA/Filter im Code von Pavel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hardware/ADC.md",
+                "file": "MCPHA/Filter im Code von Pavel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hardware/ADC.md"
+                "file": "MCPHA/Filter im Code von Pavel.md"
               }
             }
           }
@@ -176,10 +176,13 @@
   },
   "active": "0e7819928a248241",
   "lastOpenFiles": [
-    "Hardware/Hardware.md",
-    "Hardware/ADC.md",
-    "Red Pitaya.md",
+    "Stützstellen_FIR_Filter.png",
+    "MCPHA/Filter im Code von Pavel.md",
     "Hardware/DAC.md",
+    "MCPHA",
+    "Hardware/ADC.md",
+    "Hardware/Hardware.md",
+    "Red Pitaya.md",
     "Link-Sammlung.md",
     "Linux/Linux-Umgebung.md",
     "Linux/Serielle Konsole.md",

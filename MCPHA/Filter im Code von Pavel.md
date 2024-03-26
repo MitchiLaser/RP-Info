@@ -1,0 +1,2 @@
+
+Pavel verwendet einen CIC Filter und einen FIR Filter. Der CIC Filter realisiert den Decimation Faktor. Was der FIR Filter macht ist nicht klar, seine Übergangsfunktion ist über hardkodierte Stützstellen definiert. Ein Plot der Funktion die diese Stützstellen darstellen ist hier zu sehen, die Achsenbeschriftung bezieht sich auf die Floating-Point Werte aus dem Code und die Index-Nummer der Stützstelle: ![[Stützstellen_FIR_Filter.png]]
